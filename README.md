@@ -1,4 +1,4 @@
-<img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AAOQEOTaQE6bdTb7c5tFWia6OpiPAkb2Fm0v309DOK00qw_layXaR37HmiHsU-ldYZj3hPIjOm_ad_mnYCFggUkK4KUeX5C1=w960-h936" alt="깃허브 배너"></img>
+<img src="https://lh3.googleusercontent.com/u/1/drive-viewer/AAOQEOTaQE6bdTb7c5tFWia6OpiPAkb2Fm0v309DOK00qw_layXaR37HmiHsU-ldYZj3hPIjOm_ad_mnYCFggUkK4KUeX5C1=w960-h936" alt="자바 프로젝트 배너"></img>
 
 <div>
       22년도 2학기 전공 수업 'JAVA프로그래밍'에서 진행한 두 개의 프로젝트입니다.<br>
